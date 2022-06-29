@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <lockTab>通行許可</lockTab>
+  <locks2Tab>鍵設定</locks2Tab>
+  <ConfigRuleAnimals>動物フィルタ</ConfigRuleAnimals>
+  <ConfigRuleApparel>衣服フィルタ</ConfigRuleApparel>
+  <ConfigRuleColonists>入植者出禁フィルタ</ConfigRuleColonists>
+  <ConfigRuleGameCondition>ゲーム状況フィルタ</ConfigRuleGameCondition>
+  <ConfigRuleGuests>来客フィルタ</ConfigRuleGuests>
+  <ConfigRuleIgnorDrafted>徴兵ポーンフィルタ</ConfigRuleIgnorDrafted>
+  <ConfigRuleInverseColonists>入植者許可フィルタ</ConfigRuleInverseColonists>
+  <ConfigRulePrisoners>囚人フィルタ</ConfigRulePrisoners>
+  <ConfigRuleRace>種族フィルタ</ConfigRuleRace>
+  <ConfigRuleBedRoom>寝室フィルタ</ConfigRuleBedRoom>
+  <Locks2DoorSettings>ドアフィルタ</Locks2DoorSettings>
+  <Locks2Or>- または -</Locks2Or>
+  <Locks2Close>閉じる</Locks2Close>
+  <Locks2OrTooltip>通過するには、この制限のいずれかを満たす必要があります。</Locks2OrTooltip>
+  <Locks2Animals>動物を許可</Locks2Animals>
+  <Locks2ApparelFilter>入植者と来客のうち、以下を身に着けている者は通行可:</Locks2ApparelFilter>
+  <Locks2ApparelFilterBody>以下を身に着けている者のみ通行可:</Locks2ApparelFilterBody>
+  <Locks2BedRoomFilter>寝室の所有者のみ通行可</Locks2BedRoomFilter>
+  <Locks2BedRoomFilterHint>部屋に未割り当てのベッドがある限り無制限</Locks2BedRoomFilterHint>
+  <Locks2ColonistsFilter>以下の入植者以外は通行可</Locks2ColonistsFilter>
+  <Locks2ColonistsFilterBlacklist>出禁リスト:</Locks2ColonistsFilterBlacklist>
+  <Locks2GameConditionFilter>ゲーム条件が無効な場合、誰でも通行可</Locks2GameConditionFilter>
+  <Locks2DenyIf>以下の場合は拒否:</Locks2DenyIf>
+  <Locks2GuestsFilter>同盟派閥の者と来客を許可</Locks2GuestsFilter>
+  <Locks2DraftedPawns>徴兵された入植者を許可</Locks2DraftedPawns>
+  <Locks2ColonistInvertedFilter>許可リストに登録された入植者のみ通行可</Locks2ColonistInvertedFilter>
+  <Locks2ColonistInvertedFilterWhitelist>許可リスト:</Locks2ColonistInvertedFilterWhitelist>
+  <Locks2PrisonersFilter>囚人を許可</Locks2PrisonersFilter>
+  <Locks2RaceFilter>種族別に許可</Locks2RaceFilter>
+  <Locks2RaceFilterWhitelist>通行可能な種族:</Locks2RaceFilterWhitelist>
+  <Locks2SettingsPerformance>パフォーマンス設定:</Locks2SettingsPerformance>
+  <Locks2SettingsCache>以下のticksでキャッシュをタイムアウト</Locks2SettingsCache>
+  <Locks2SettingsCacheTooltip>この値を小さくするとパフォーマンスへの影響は大きくなりますが、ロックシステムの応答性能は高くなります。初期値の1800&#xa0;ticksのままにしておくことをお勧めします。</Locks2SettingsCacheTooltip>
+  <Locks2SettingsAccessTab>通行許可タブのサイズと見た目:</Locks2SettingsAccessTab>
+  <Locks2SettingsAccessTabX>通行許可タブのサイズ x軸方向:</Locks2SettingsAccessTabX>
+  <Locks2SettingsAccessTabY>通行許可タブのサイズ y軸方向:</Locks2SettingsAccessTabY>
+  <Locks2SettingsDefaults>初期設定:</Locks2SettingsDefaults>
+  <Locks2SettingsDefaultsAre>制限項目の初期設定:</Locks2SettingsDefaultsAre>
+  <Locks2SettingsOthers>その他の設定:</Locks2SettingsOthers>
+  <Locks2SettingReset>リセット</Locks2SettingReset>
+  <Locks2SettingsEnableDebugging>デバッグの有効化</Locks2SettingsEnableDebugging>
+  <Locks2SettingsDebuggingTooltip>上級者向けのデバッグを有効にします。</Locks2SettingsDebuggingTooltip>
+  <Locks2SettingsDebuggingWarning>注意: こちらはMOD制作者専用です!</Locks2SettingsDebuggingWarning>
+  <Locks2Confirm>本当に行いますか?</Locks2Confirm>
+  <Locks2ConfirmYes>はい</Locks2ConfirmYes>
+  <Locks2ConfirmNo>いいえ</Locks2ConfirmNo>
+  <Locks2AnimalsGenderFilter>以下の場合のみ許可</Locks2AnimalsGenderFilter>
+  <Locks2AnimalsGenderMale>オス</Locks2AnimalsGenderMale>
+  <Locks2AnimalsGenderFemale>メス</Locks2AnimalsGenderFemale>
+  <Locks2AnimalsAgeFilter>以下の年齢に満たない動物を許可</Locks2AnimalsAgeFilter>
+
+</LanguageData>
